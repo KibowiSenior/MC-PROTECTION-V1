@@ -1,0 +1,23 @@
+{
+    "listenPort": 25577,
+    "backendIp": "148.113.1.61",
+    "backendPort": 19100,
+    "maxConnPerIp": 5,
+    "rateLimitWindowMs": 1000,
+    "connectionTimeout": 5000,
+    "motd": {
+        "description": "§b§lCLOUDNORD Shield\n§7Advanced protection. Stable. Secure.",
+        "maxPlayers": 2025,
+        "onlinePlayers": 0,
+        "versionName": "CLOUDNORD",
+        "protocol": 763
+    },
+    "whitelist": {
+        "enabled": false,
+        "players": [
+            "Notch",
+            "Dinnerbone",
+            "Player1"
+        ]
+    }
+}

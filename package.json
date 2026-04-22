@@ -1,0 +1,17 @@
+{
+    "name": "minecraft-shield-proxy",
+    "version": "1.0.1",
+    "description": "Custom Minecraft DDoS Shield with Stability Fixes",
+    "main": "shield.js",
+    "scripts": {
+        "start": "node shield.js"
+    },
+    "keywords": [
+        "minecraft",
+        "proxy",
+        "security"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+}
